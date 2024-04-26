@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan Raine</h1>
 <h3 align="center">A passionate developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **ASP NET**
+- 🔭 I’m currently working on **DOT NET**
 
 - 📫 How to reach me **jonatannnraineeee@gmail.com**
 
