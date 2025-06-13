@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Jonathan Raine</h1>
-<h3 align="center">A passionate developer from Indonesia</h3>
+<h1 align="left">Hi 👋, I'm Jonathan Raine</h1>
+<h3 align="left">A passionate developer from Indonesia</h3>
 
 
-- 📫 How to reach me **raine_jonathan@outlook.com**
+- ✉ How to reach me **raine_jonathan@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jonathan-raine-41854b232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan raine" height="30" width="40" /></a>
-</p>
+- 🔗 Connect with me <a href="https://linkedin.com/in/jonathan-raine-41854b232" target="blank">my linkedIn</a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
